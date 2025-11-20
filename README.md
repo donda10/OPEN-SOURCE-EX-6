@@ -1,8 +1,8 @@
 # OPEN-SOURCE-EX-6
 
-## NAME : ABDUL KALAAM K M
-## REG NO : 212223230003
-## DEPT : AIDS
+## NAME : Simon Malachi S
+## REG NO : 212224040318
+## DEPT : CSE
 # STEPS INVOLVED:
 ### STEP 1 : sudo -i
 ### STEP 2 : useradd -u 1326 alies
